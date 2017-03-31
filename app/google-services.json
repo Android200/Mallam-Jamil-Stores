@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "908355298679",
+    "firebase_url": "https://mallam-jamil-stores.firebaseio.com",
+    "project_id": "mallam-jamil-stores",
+    "storage_bucket": "mallam-jamil-stores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908355298679:android:0e92594e37e7d7d3",
+        "android_client_info": {
+          "package_name": "locale.com.mallamjamilstores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908355298679-7dabrq6724kalkun25ek9ko8jtr6d2k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFA457JRZf8jVx-swKcoZ6X_mQOSWG9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
